@@ -8833,7 +8833,7 @@ header.sticky .left-sidebar-nav .navbar-nav .nav-link {
   cursor: url(../images/mfg-close.png), auto;
 }
 .show-search-popup .search-form-wrapper .search-form {
-  height: 50%;
+  height: 80%;
   cursor: default;
   visibility: visible;
   opacity: 1;
