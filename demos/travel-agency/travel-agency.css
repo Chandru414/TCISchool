@@ -550,3 +550,20 @@ text-align: left;
     padding: 8px 0px;
     text-align: left;
   }
+
+  .section-bg-custom-color{
+    /* background-image: var(--bg-color-combo); */
+    background-image: linear-gradient(to right, #7c8993, #8c8a8f, #a08d89, #ae8f84, #b08f83);
+  }
+
+  .section-bgtwo-custom-color{
+    background-image: linear-gradient(to right, #cccccc, #cccccc, #cccccc, #cccccc, #cccccc);
+  }
+
+  .section-bgthree-custom-color{
+    background-image: linear-gradient(to right, #F9F3DF, #FDFCE5, #F9F3DF, #FDFCE5, #F9F3DF);
+  }
+
+  .section-bgfour-custom-color{
+    background-image: linear-gradient(to right, #E1ECC8, #E1ECC8, #E1ECC8, #F7FFE5, #F7FFE5);
+  }
