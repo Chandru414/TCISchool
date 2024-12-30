@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 /* variable */
 :root {     
-    --base-color: #C19052; 
+    --base-color: #90062e; 
     --light-gray: #E7E4DF;
     --red: #d03c3c;
     --very-light-gray:#F2EFEB;
@@ -553,7 +553,8 @@ text-align: left;
 
   .section-bg-custom-color{
     /* background-image: var(--bg-color-combo); */
-    background-image: linear-gradient(to right, #7c8993, #8c8a8f, #a08d89, #ae8f84, #b08f83);
+    /* background-image: linear-gradient(to right, #7c8993, #8c8a8f, #a08d89, #ae8f84, #b08f83); */
+    background-image: linear-gradient(to right, #adadad, #b0adb5, #e3dfde, #cfbcb6, #cfbab2);
   }
 
   .section-bgtwo-custom-color{
