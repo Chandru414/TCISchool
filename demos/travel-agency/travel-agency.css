@@ -787,7 +787,36 @@ text-align: left;
   }
   
   .text {
-      text-align: center;
+      text-align: left;
       padding: 10px;
+      font-size: 17px;
+      line-height: 1.5;
+      text-align: left !important;
+      position: absolute;
+      width: 100%;
   }
+  .image-text1{
+    top: 72%;
+    left: 50%;
   }
+  .image-text2{
+    top: 79%;
+    left: 50%;
+  }
+  .image-text3{
+    top: 52%;
+    left: 50%;
+  }
+  .image-text4{
+    top: 72%;
+    left: 50%;
+  }
+  .image-text5{
+    top: 80%;
+    left: 50%;
+  }
+  .image-text6{
+    top: 67%;
+    left: 50%;
+  }
+}
