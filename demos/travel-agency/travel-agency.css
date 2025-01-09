@@ -630,7 +630,7 @@ text-align: left;
 
 
   /*home collapsible column */
-  /* .containerr {
+  .containerr {
     display: flex;
   }
   
@@ -640,6 +640,7 @@ text-align: left;
     height: 300px;
     padding: 10px;
     transition: 0.5s flex;
+    margin: 0 5px;
   }
   
   .containerr > div:hover {
@@ -660,7 +661,7 @@ text-align: left;
       border-right: none;
       border-bottom: 2px solid;
     }
-  } */
+  }
 
 
 
